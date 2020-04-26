@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29123.88
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleAppNetCore", "ConsoleAppNetCore\ConsoleAppNetCore.csproj", "{CDD39AA6-A232-40F2-8633-1A542572D568}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CDD39AA6-A232-40F2-8633-1A542572D568}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CDD39AA6-A232-40F2-8633-1A542572D568}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CDD39AA6-A232-40F2-8633-1A542572D568}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CDD39AA6-A232-40F2-8633-1A542572D568}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {996F2140-E704-4B09-A094-920D8C8845BA}
+	EndGlobalSection
+EndGlobal
